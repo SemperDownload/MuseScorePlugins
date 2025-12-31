@@ -1,3 +1,5 @@
+README for timesigCP_Semper_v1.0:
+
 This is an update to @TeeDeeY's plugin enabling copy/paste of time signatures in MuseScore. Their version
 wasn't working for me in MuseScore 4.xx so I decided to update it. However, I ended up adding a significant
 number of new features, making the plugin useful for composers/arrangers working with music that frequently
